@@ -29,3 +29,7 @@ class House
     DATA
   end
 end
+
+puts
+puts House.new.line(12)
+puts
